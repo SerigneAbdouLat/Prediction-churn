@@ -1,4 +1,4 @@
-# Prediction-churn
+# Prediction-churn en utilisant SAS
 
 ## Auteurs
 - NGAM Amadou
