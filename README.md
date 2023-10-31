@@ -1,4 +1,4 @@
-# Prediction-churn"
+# Prediction-churn
 
 ## Auteurs
 - NGAM Amadou
