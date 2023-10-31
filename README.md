@@ -1,12 +1,14 @@
-"# Prediction-churn" 
+# Prediction-churn"
 
 ## Auteurs
--NGAM Amadou
--SARR Serigne Abdou Lat
--KANE Mamadou
--KAFANDO Tounwendsida Bertrand
--DIALLO Mouhamed Bobo
-DIOP Cheikh Ahmadou Bamba
+- NGAM Amadou
+- SARR Serigne Abdou Lat
+- KANE Mamadou
+- KAFANDO Tounwendsida Bertrand
+- DIALLO Mouhamed Bobo
+- DIOP Cheikh Ahmadou Bamba
+
+## Objectif
 L'objectif principal de ce projet est de prédire le désabonnement des clients en se basant sur les données commsdata, ce qui apportera plusieurs avantages et bénéfices significatifs à l'entreprise. L'utilisation de SAS, un outil puissant d'analyse de données, a été essentielle pour atteindre ces objectifs.
 
 Les avantages attendus pour l'entreprise sont les suivants :
